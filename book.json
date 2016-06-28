@@ -1,9 +1,7 @@
 {
     "plugins": [
         "disqus",
-        "ga",
-        "ace",
-        "extend-default-theme"
+        "ga"
     ],
     "pluginsConfig": {
         "disqus": {
