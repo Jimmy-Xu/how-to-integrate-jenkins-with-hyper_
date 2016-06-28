@@ -5,7 +5,7 @@
     "pluginsConfig": {
         "disqus": {
             "useIdentifier": true,
-            "shortName": "integrate-jenkins-with-hyper_"
+            "shortName": "integrate-jenkins-with-hyper"
         }
     }
 }
