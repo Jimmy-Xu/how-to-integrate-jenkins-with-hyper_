@@ -3,8 +3,7 @@
         "disqus",
         "ga",
         "mixpanel",
-        "ace",
-        "maxiang"
+        "ace"
     ],
     "pluginsConfig": {
         "disqus": {
