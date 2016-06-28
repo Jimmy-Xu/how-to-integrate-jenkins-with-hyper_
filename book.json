@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "useIdentifier": true,
+            "shortName": "integrate-jenkins-with-hyper_"
+        }
+    }
+}
