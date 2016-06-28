@@ -1,0 +1,89 @@
+#mainbody {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+#topbar {
+    float: left;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 50em;
+}
+
+#sidebar {
+    float: left;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding: 2em 0.5em 0 0.5em;
+    width: 9em;
+}
+
+#content {
+    float: left;
+    padding-top: 1em;
+    font-family: verdana;
+    color: #40494d;
+    max-width: 50em;
+}
+
+ul {
+    font-family: sans-serif;
+    list-style-type: square;
+    padding: 0 0 0 0;
+    margin: 0.3em 0 0 1.5em;
+}
+
+.site-menu {
+    color: #a0a0a0;
+}
+
+a.site-menu:hover {
+    color: #4048c0;
+}
+
+a {
+    color: #4048c0;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    margin: .4em 0 .5em 0;
+    line-height: 1.5em;
+}
+
+h1 {
+    color: #1c72b4;
+    font-weight: bold;
+    font-size: 110%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h2 {
+    color: #1c72b4;
+    font-weight: bold;
+    font-size: 100%
+}
+
+h3 {
+    color: #1c72b4;
+    font-weight: bold;
+    font-size: 90%
+}
+
+.t_projects th {
+    background-color: #DBEBFF;
+}
+
+.t_projects table, th, td {
+    border: 1px solid #ccc;
+}
