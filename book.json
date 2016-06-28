@@ -3,7 +3,6 @@
         "disqus",
         "ga",
         "ace",
-        "sellerui",
         "extend-default-theme"
     ],
     "pluginsConfig": {
