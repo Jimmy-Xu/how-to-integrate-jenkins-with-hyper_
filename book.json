@@ -3,7 +3,8 @@
         "disqus",
         "ga",
         "mixpanel",
-        "ace"
+        "ace",
+        "sellerui"
     ],
     "pluginsConfig": {
         "disqus": {
