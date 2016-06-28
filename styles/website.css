@@ -1,89 +1,48 @@
-#mainbody {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50em;
+header,nav,nav.main-nav,nav.navbar-collapse,nav.navbar-collapse.collapse {
+    display: none !important
 }
 
-#topbar {
-    float: left;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 50em;
+.profiler-results {
+    display: none
 }
 
-#sidebar {
-    float: left;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    padding: 2em 0.5em 0 0.5em;
-    width: 9em;
+.tree-ref-holder,.tree-holder .breadcrumb,.blob-commit-info {
+    display: none
 }
 
-#content {
-    float: left;
-    padding-top: 1em;
-    font-family: verdana;
-    color: #40494d;
-    max-width: 50em;
+.file-title {
+    display: none
 }
 
-ul {
-    font-family: sans-serif;
-    list-style-type: square;
-    padding: 0 0 0 0;
-    margin: 0.3em 0 0 1.5em;
+.file-holder {
+    border: none
 }
 
-.site-menu {
-    color: #a0a0a0;
+.wiki h1,.wiki h2,.wiki h3,.wiki h4,.wiki h5,.wiki h6 {
+    margin-top: 17px
 }
 
-a.site-menu:hover {
-    color: #4048c0;
+.wiki h1 {
+    font-size: 30px
 }
 
-a {
-    color: #4048c0;
-    text-decoration: none;
+.wiki h2 {
+    font-size: 22px
 }
 
-a:hover {
-    text-decoration: underline;
+.wiki h3 {
+    font-size: 18px;
+    font-weight: bold
 }
 
-p {
-    margin: .4em 0 .5em 0;
-    line-height: 1.5em;
+.sidebar-wrapper {
+    display: none
 }
 
-h1 {
-    color: #1c72b4;
-    font-weight: bold;
-    font-size: 110%;
-    margin-top: 0;
-    margin-bottom: 0;
+.nav {
+    display: none
 }
 
-h2 {
-    color: #1c72b4;
-    font-weight: bold;
-    font-size: 100%
-}
-
-h3 {
-    color: #1c72b4;
-    font-weight: bold;
-    font-size: 90%
-}
-
-.t_projects th {
-    background-color: #DBEBFF;
-}
-
-.t_projects table, th, td {
-    border: 1px solid #ccc;
+.btn {
+    display: none
 }
