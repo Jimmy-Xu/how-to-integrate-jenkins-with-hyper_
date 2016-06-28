@@ -2,7 +2,6 @@
     "plugins": [
         "disqus",
         "ga",
-        "mixpanel",
         "ace",
         "sellerui"
     ],
