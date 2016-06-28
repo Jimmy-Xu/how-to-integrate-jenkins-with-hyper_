@@ -7,6 +7,10 @@
         "disqus": {
             "useIdentifier": true,
             "shortName": "integrate-jenkins-with-hyper"
+        },
+        "ga": {
+            "token": "UA-80007636-1",
+            "configuration": "auto"
         }
     }
 }
